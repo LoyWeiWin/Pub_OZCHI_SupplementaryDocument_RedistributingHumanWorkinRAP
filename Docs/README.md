@@ -8,6 +8,8 @@ Project repository: https://github.com/LoyWeiWin/Pub_OZCHI_SupplementaryDocument
 
 ## Overview
 
+![Robotic-assisted photogrammetry and focus-stacking setup](Assets/Images/OZCHI26-sub3598-01.png)
+
 This project examines how robotic assistance redistributes human work in small-object digitisation. A Universal Robots UR10 positions a camera mounted on a motorised macro rail, while a motorised turntable provides rotational viewpoints. Two configurations support standard photogrammetric capture and focus-stacked capture.
 
 The study involved four image-acquisition sessions with three museum artefacts: the Pot, Sarcophagus, and Red Dragon. Standard capture was used for the Pot and Sarcophagus; focus-stacked capture was used for the Red Dragon. These were situated cases involving different artefacts and acquisition settings, rather than matched experimental conditions.
